@@ -327,3 +327,4 @@ Contributions are welcome! Please:
 ---
 
 **Built with ❤️ for quantitative traders**# Quantitative-Trading-System
+# Quantitative-Trading-System
